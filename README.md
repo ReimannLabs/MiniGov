@@ -3,7 +3,7 @@ MiniGov is a suite of apps combined into one easy to use platform. Created for S
 ## Developed by Students for Students
 As a two-year member of my school’s student government, I’ve witnessed the challenges we encounter in managing projects and communicating with students. MiniGov aims to address these challenges by simplifying the process and providing an easily scalable solution for managing student government tasks.
 ## Features
-|  |  |
+| Name | Description |
 |--|--|
 | **Meeting Notes** | Easily take and manage meetings notes, create templates, and request discussion topics. |
 | **Finance Reports** | Submit treasurer reports directly to MiniGov for easy data on current funds and accounts. |
