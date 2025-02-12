@@ -9,4 +9,5 @@ As a two-year member of my school’s student government, I’ve witnessed the c
 | **Finance Reports** | Submit treasurer reports directly to MiniGov for easy data on current funds and accounts. |
 | **Election Management** | Configure elections easily within MiniGov, with real-time data for sharing election results. |
 | **Project Management** | Manage school projects easily - grants, supplies, contacts, active tasks, and more. |
+| **Grant Proposals** | Plan and Prepare for project grants |
 | **More Features to Follow** | We have more in the works! |
